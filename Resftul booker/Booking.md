@@ -39,10 +39,16 @@
   - Validación de ingreso de datos de acuerdo al campo  
 - Negativas 
   - Ingreso de datos incorrectos para cada campo 
-  - Envió de solicitudes con campos vacíos 
+  - Envió de solicitudes con campos vacíos
+- Rendimiento  
+  - Se enviaron 100 y 200 solicitudes secuenciales para ver cómo se comportaba la API a través de Postman
+  - La API funciona favorablemente bajo una carga continua de solicitudes, todas las solicitudes se crean con un código 200OK (En esta carpeta se ecuentran los resultados exportados desde Postman y videos que muestran la creación de las solicitudes)
 - Reportes de errores: los casos de pruebas permitieron encontrar errores que  fueron documentados en JIRA
 - Herramientas utilizadas 
+  - POSTMAN   
   - POSTMAN 
   - JIRA
+ - Enlaces a: 
+  - Casos de prueba: https://docs.google.com/spreadsheets/d/1EYZ55kAx_-yTfh5yvTu3EqjOABivC1fe55L7baRA-Yo/edit?usp=sharing
 
 
