@@ -58,5 +58,19 @@
 
  Por ultimo el metodo teardown_class() finaliza las pruebas cerrando el navegador y detiene el driver.
 
+Informe de Pruebas Manuales de la Interfaz de Usuario para BugBank (UI).
+
+Dentro del proyecto, se llevaron a cabo pruebas manuales sobre la interfaz de usuario (UI), se crearon y ejecutaron casos de prueba. El enfoque de caja negra permitió validar la funcionalidad de la UI desde la perspectiva del usuario final, centrándose en la entrada y salida de datos sin considerar la lógica interna del sistema.
+
+Se logro identificar fallos evaluando la usabilidad, interacción y comportamiento de la UI en distintos escenarios. Estas pruebas permitieron descubrir defectos relacionados con la experiencia de usuario (UX) y la integridad funcional del sistema.
+
+Las pruebas ejecutadas incluyeron la verificación de flujos críticos, validaciones en campos, controles de navegación y otros elementos interactivos clave, con el objetivo de garantizar un rendimiento adecuado de la UI y detectar cualquier comportamiento inesperado.
+
+Estas pruebas fueron multiplataforma para evaluar el desempeño en cada una de ellas.
+
+Compartimos el link en el cual se encuentran los casos de prueba.
+
+https://docs.google.com/spreadsheets/d/1EYZ55kAx_-yTfh5yvTu3EqjOABivC1fe55L7baRA-Yo/edit?usp=sharing
+
 ## Muchas gracias!!!
 ### Equipo 2
