@@ -48,7 +48,9 @@
   - POSTMAN   
   - POSTMAN 
   - JIRA
- - Enlaces a: 
+- Enlaces a: 
   - Casos de prueba: https://docs.google.com/spreadsheets/d/1EYZ55kAx_-yTfh5yvTu3EqjOABivC1fe55L7baRA-Yo/edit?usp=sharing
+  - Resultado de la prueba de rendimiento con 100 request: https://github.com/JenessyMEG/Hackathon_QA-2024_Equipo-2/blob/main/Resftul%20booker/Hackathon.postman_test_run.json
+  - Resultado de la prueba de rendimiento con 200 request: https://github.com/JenessyMEG/Hackathon_QA-2024_Equipo-2/blob/main/Resftul%20booker/Hackathon.postman_test_run_200
 
 
