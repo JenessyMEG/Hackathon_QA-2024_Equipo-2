@@ -4,10 +4,10 @@ import main
 from selenium import webdriver
 
 
-class TestUrbanRoutes:
+class BugBank:
 
     driver = None
-    #driver = webdriver.Chrome()
+
     @classmethod
     def setup_class(cls):
         cls.driver = webdriver.Chrome()
@@ -56,7 +56,7 @@ class TestUrbanRoutes:
         self.test_acessar()
         sair = main.sair(self.driver)
         sair.wait_for_load_field()
-        sair.sair_button()
+        sair.clik_sair()
 
         assert data.URL_BUGBANK == 'https://bugbank.netlify.app/'
 

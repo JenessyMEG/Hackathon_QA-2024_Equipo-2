@@ -3,7 +3,7 @@ from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
 
-class BugBank: #guia al usuario al formulario de registro
+class BugBank: #lleva a la pagina del formulario de registro
     register_button = (By.XPATH, '//*[@id="__next"]/div/div[2]/div/div[1]/form/div[3]/button[2]')
 
     def __init__(self, driver):
@@ -91,8 +91,7 @@ class sair: #el usuario puede salir de la web
     def wait_for_load_field(self):
         WebDriverWait(self.driver, 5).until(expected_conditions.visibility_of_element_located(self.sair_button))
 
-    def clik_register(self):
+    def clik_sair(self):
         self.driver.find_element(*self.sair_button).click()
-
 
 
