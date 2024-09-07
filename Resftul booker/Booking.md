@@ -46,8 +46,8 @@
 - Reportes de errores: los casos de pruebas permitieron encontrar errores que  fueron documentados en JIRA
 - Herramientas utilizadas 
   - POSTMAN   
-  - POSTMAN 
   - JIRA
+  - EXCEL (DOCUMENTACIÓN DE CASOS DE PRUEBA)
 - Enlaces a: 
   - Casos de prueba: https://docs.google.com/spreadsheets/d/1EYZ55kAx_-yTfh5yvTu3EqjOABivC1fe55L7baRA-Yo/edit?usp=sharing
   - Resultado de la prueba de rendimiento con 100 request: https://github.com/JenessyMEG/Hackathon_QA-2024_Equipo-2/blob/main/Resftul%20booker/Hackathon.postman_test_run.json
