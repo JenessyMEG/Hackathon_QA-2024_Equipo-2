@@ -1,4 +1,7 @@
-﻿##
+
+ ![Claro Colores Cocinar Sitio Web Twitter Encabezado](https://github.com/user-attachments/assets/6df3d765-8ae7-45f0-8ca1-4ac6075731ed)
+
+ ##
 - <a name="_224u9ma7ck5j"></a>Descripción: se realizaron pruebas manuales a través de Postman. Se seleccionó el endpoint de creación de reservas. El objetivo de estas pruebas fue asegurar que la API funcione correctamente y maneje adecuadamente tanto  entradas válidas como  inválidas en los campos.
 - Endpoint seleccionado para las pruebas: 
   - Endpoint: /booking
