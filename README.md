@@ -17,8 +17,8 @@ Aquí encontrarás nuestros objetivos, planificacion, reportes, documentacion y 
 <p>Cada carpeta contiene su archivo README con los detalles del proyecto y los archivos necesarios para la automatización a aquellas que se les hizo.</p>
 
 <ul>
-    <li><a href="/Bugbank/">BugBank</a></li>
-    <li><a href="/Platzi Fake Store API/">Platzi</a></li>
+    <li><a href="/BugBank">BugBank</a></li>
+    <li><a href="/Platzi Fake Store API">Platzi</a></li>
 </ul>
 
   
