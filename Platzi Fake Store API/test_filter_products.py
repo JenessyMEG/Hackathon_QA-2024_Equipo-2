@@ -21,11 +21,11 @@ class TestProductFiltering(unittest.TestCase):
 # Prueba el filtrado por título del producto (seleccionar un título valido para cada prueba)
     def test_filter_by_title(self):
         response = self.get_response(
-            {"title": "Equipo 2"})  # Se cambia "Generic" por un título valido obtenido en Postman al generar una lista de productos
+            {"title": "Animo chicoooos"})  # Se cambia "Generic" por un título valido obtenido en Postman al generar una lista de productos
         products = response.json()
         print("Filter by title response:", products)
-        self.assertTrue(any("Equipo 2" in product.get('title', '') for product in products),
-                        "No products with title 'Equipo 2' found")
+        self.assertTrue(any("Animo chicoooos" in product.get('title', '') for product in products),
+                        "No products with title 'Animo chicoooos' found")
 
 # Prueba el filtrado por precio exacto
     def test_filter_by_price(self):

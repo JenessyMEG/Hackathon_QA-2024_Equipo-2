@@ -96,7 +96,7 @@ Además de las pruebas automatizadas, se han realizado pruebas manuales utilizan
 
 Se incluye un archivo de Excel con los casos de prueba detallados y los enlaces al informe de errores encontrado durante las pruebas. Este archivo proporciona una visión completa de los casos de prueba y los problemas detectados.
 
-- [Enlace al archivo Excel de casos de prueba y errores](ruta_al_archivo_excel)
+- [Enlace al archivo Excel de casos de prueba y errores](https://docs.google.com/spreadsheets/d/1EYZ55kAx_-yTfh5yvTu3EqjOABivC1fe55L7baRA-Yo/edit?usp=sharing)
 
 ## Cómo Ejecutar las Pruebas
 
