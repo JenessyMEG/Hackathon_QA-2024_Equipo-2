@@ -10,7 +10,7 @@
 1. Data.py, este archivo cuenta con los datos necesarios para realizar la automatizacion.
 
     1. El URL de la pagina web.
-    2. Las variantes del correo electronico
+    2. Las variantes del correo electronico  
     3. La variante nombre del usuario
     4. La variante de la contrasena
     5. La variante de la confirmacion de la contrasena
