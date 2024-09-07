@@ -42,15 +42,16 @@
   - Envió de solicitudes con campos vacíos
 - Rendimiento  
   - Se enviaron 100 y 200 solicitudes secuenciales para ver cómo se comportaba la API a través de Postman
-  - La API funciona favorablemente bajo una carga continua de solicitudes, todas las solicitudes se crean con un código 200OK (En esta carpeta se ecuentran los resultados exportados desde Postman y videos que muestran la creación de las solicitudes)
+  - La API funciona favorablemente bajo una carga continua de solicitudes, todas las solicitudes se crean con un código 200OK (En esta carpeta se ecuentran los resultados exportados desde Postman y los enlaces a los videos que muestran la creación de las solicitudes)
 - Reportes de errores: los casos de pruebas permitieron encontrar errores que  fueron documentados en JIRA
 - Herramientas utilizadas 
   - POSTMAN   
   - JIRA
   - EXCEL (DOCUMENTACIÓN DE CASOS DE PRUEBA)
 - Enlaces a: 
-  - Casos de prueba: https://docs.google.com/spreadsheets/d/1EYZ55kAx_-yTfh5yvTu3EqjOABivC1fe55L7baRA-Yo/edit?usp=sharing
-  - Resultado de la prueba de rendimiento con 100 request: https://github.com/JenessyMEG/Hackathon_QA-2024_Equipo-2/blob/main/Resftul%20booker/Hackathon.postman_test_run.json
-  - Resultado de la prueba de rendimiento con 200 request: https://github.com/JenessyMEG/Hackathon_QA-2024_Equipo-2/blob/main/Resftul%20booker/Hackathon.postman_test_run_200
+  - Casos de prueba y cideos de la ejecución de la prueba de rendimiento en Postman:https://drive.google.com/drive/folders/1FpWdRQqCKSK57oOy-xQPO7ezOrvwhCYq?usp=sharing 
+  - Resultado exportado de Postman de la prueba de rendimiento con 100 request: https://github.com/JenessyMEG/Hackathon_QA-2024_Equipo-2/blob/main/Resftul%20booker/Hackathon.postman_test_run.json 
+  - Resultado exportado de Postman de la prueba de rendimiento con 200 request: https://github.com/JenessyMEG/Hackathon_QA-2024_Equipo-2/blob/main/Resftul%20booker/Hackathon.postman_test_run_200
+    
 
 
