@@ -4,7 +4,7 @@ import main
 from selenium import webdriver
 
 
-class BugBank:
+class TestBugBank:
 
     driver = None
 

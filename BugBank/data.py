@@ -8,4 +8,3 @@ NOME = 'Hector'
 SEHNA = 'ggg'
 #CONFIRMACAO SEHNA  del usuario
 CONF_SEHNA = 'ggg'
-
